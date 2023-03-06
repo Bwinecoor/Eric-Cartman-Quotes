@@ -1,0 +1,45 @@
+body {
+    background-image: url(coonimages/background.png);
+  }
+.cmanm1 {
+    margin-left: 40%;
+}
+.cmanm2 {
+    margin-right: 40%;
+}
+.nav-bottom {
+    background-color: #d4d4d4;
+    border-bottom: 3px solid #4d4d4d;
+}
+.regbgborder {
+	border: 3px solid #4d4d4d;
+	background-color: #d4d4d4;
+	width: 60%;
+	height: 100%;
+}
+.googlefont {
+    font-family: 'Lilita One', cursive;
+}
+.title {
+    font-size: 30px;
+}
+.carouselthing {
+    border: 5px solid #4d4d4d;
+    width: 60%;
+    margin: auto;
+}
+.valign {
+    text-align: center;
+}
+.clipbutton {
+    border: 3px solid #4d4d4d;
+    background-color: #d4d4d4;
+    margin-left: 42.5%;
+    margin-right: 42.5%;
+}
+.clipbutton:hover {
+    border: 3px solid #2e2e2e;
+    background-color:#b8b8b8;
+    border-radius: 25px;
+    transition: .25s;
+}
